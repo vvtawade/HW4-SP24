@@ -5,7 +5,7 @@ from numpy.linalg import solve, inv
 def matrix_solver(A, b):
 
     """
-    Function to solve linear matrix system
+    Function to solve linear matrix system.
 
     :param A: Matrix A
     :param b: Matrix B
